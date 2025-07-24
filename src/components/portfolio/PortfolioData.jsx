@@ -11,7 +11,7 @@ const projectsData = [
   {
     image: AIchatbot,
     title: "Fevai Ai-chatbot",
-    desc: "A smart, responsive chat assistant that understands and answers user queries in real time, Enhances user engagement with natural, AI-powered conversation",
+    desc: "An AI-driven chat interface developed from a UI/UX Figma prototype, providing real-time, context-aware responses to enhance user interaction and accessibility.",
     url: "https://eden-tech-theta.vercel.app/",
     code: "",
     category: "Projects"

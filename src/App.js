@@ -13,7 +13,6 @@ const App = () => {
   return (
     <div>
       <Header />
-      
       <main className='main'>
         <Home />
         <About />
@@ -22,8 +21,6 @@ const App = () => {
         <Contact />
         <Footer />
       </main>
-
-      
     </div>
   )
 }
